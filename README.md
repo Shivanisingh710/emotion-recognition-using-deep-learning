@@ -13,6 +13,12 @@ The application provides two ways to explore model predictions:
 
 The two inputs are processed independently using separate pretrained models.
 
+## Dataset download
+
+**Google Drive folder:**
+
+[Download EmotiSense AI datasets](https://drive.google.com/drive/folders/1Ks1CVj82j9yfvUY74ed7pNVpY3EMZNua?usp=drive_link)
+
 ## Key Features
 
 - Image-based emotion classification.
