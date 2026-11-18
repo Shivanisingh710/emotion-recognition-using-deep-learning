@@ -221,3 +221,23 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Additional Virtual Environment
+v1/
+
+# Hugging Face cache (if stored inside project)
+.cache/huggingface/
+
+# PyTorch / Deep Learning Model Weights
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.onnx
+
+# Model checkpoints
+checkpoints/
+weights/
+
+# Temporary files
+*.tmp
