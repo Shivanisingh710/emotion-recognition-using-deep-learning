@@ -1,0 +1,14 @@
+# Recommended Python version: 3.11
+streamlit>=1.40,<2.0
+numpy>=1.26,<2.0
+pandas>=2.0
+plotly>=5.0
+Pillow>=10.0
+
+# PyTorch: install the CPU/CUDA build that matches your machine from
+# https://pytorch.org/get-started/locally/ before running this file if needed.
+torch>=2.2
+
+# Keep Transformers on the stable 4.x API line used by this app.
+transformers>=4.45,<5.0
+safetensors>=0.4
